@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://syamal:secret.001@cluster0-y9se1.mongodb.net/chat?retryWrites=true&w=majority",
+  
+  "jwtSecret": "sl_myJwtSecret"
+}
